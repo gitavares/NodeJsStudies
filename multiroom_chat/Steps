@@ -1,0 +1,25 @@
+Passo a passo para criação estrutural de uma aplicacao
+
+1) criar um diretorio para o projeto
+2) inicializar o npm --> npm init
+3) baixar as dependências
+3.1) Express -->  npm install express --save
+3.2) EJS --> npm install ejs --save
+3.3) Consign --> npm install consign --save
+3.4) body-parser --> npm install body-parser --save
+3.5) Express Validator --> npm install express-validator --save
+4) criar os diretorios
+4.1) pasta --> config
+4.1.1) arquivo --> server.js
+4.2) arquivo --> app.js
+4.3) pasta --> app
+4.3.1) pasta --> views
+4.3.2) pasta --> controllers
+4.3.3) pasta --> models
+4.3.4) pasta --> public
+4.3.4.1) pasta --> css
+4.3.4.2) pasta --> images
+4.3.4.2) pasta --> js
+4.3.5) pasta --> routes
+5) depois de tudo configurado, para subir a aplicacao --> nodemon app
+6) instalar o Socket.io --> npm install socket.io --save
