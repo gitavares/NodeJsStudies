@@ -1,3 +1,5 @@
+https://github.com/gitavares/NodeJsStudies
+
 /* para instalar o mongodb na aplicação */
 npm install mongodb --save
 
@@ -31,4 +33,7 @@ outros sites que falam sobre esse problema de versão
 https://github.com/Automattic/mongoose/issues/5399
 
 */
+
+/* para instalar o módulo de segurança na aplicação */
+npm install crypto --save
 
