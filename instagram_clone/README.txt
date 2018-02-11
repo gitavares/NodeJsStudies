@@ -8,3 +8,7 @@
 
 # para acessar o postman
 - no chrome, digitar: chrome:apps
+
+# instalacao do connect-multiparty
+- no diretório da "api"
+> npm install connect-multiparty --save
